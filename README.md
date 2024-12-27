@@ -21,5 +21,5 @@ checkout, tela de produtos
 
 1. item
 
-    javascript
+![imagem da Feiticeira Escarlate](feiticeira_escarlate_capa.jpg)
    
