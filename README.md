@@ -22,4 +22,4 @@ checkout, tela de produtos
 1. item
 
 ![imagem da Feiticeira Escarlate](feiticeira_escarlate_capa.jpg)
-![imagem do wicanno](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdisney.fandom.com%2Fpt-br%2Fwiki%2FWiccano&psig=AOvVaw0cwm6ZIKPuTyJrVHo0EUZ2&ust=1735395598075000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi90cuSyIoDFQAAAAAdAAAAABAE)  
+![imagem de um celular](https://cdn.pixabay.com/photo/2019/04/04/15/17/smartphone-4103051_1280.jpg)  
